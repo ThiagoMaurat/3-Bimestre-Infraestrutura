@@ -1,0 +1,6 @@
+services:
+  app:
+    image: teste
+    container_name: asdasd
+    build: 
+      context: .
